@@ -1,6 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
-        //for git pull
+        //for auto run
         System.out.println("Hello, World!"); 
     }
 }
